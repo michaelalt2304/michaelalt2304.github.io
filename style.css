@@ -1,0 +1,12 @@
+h1{font-size:75;}
+top {
+    font-family:lobster;
+    text-align: center;
+    }
+els {text-align: left; font-family:cambria; font-size:50;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
