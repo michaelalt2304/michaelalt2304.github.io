@@ -2,13 +2,27 @@ h1{font-size:50;}
 top {
     font-family:lobster;
     text-align: center;
-    }
+}
 els {text-align: left; font-family:cambria; font-size:50;}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4{
+    color:black;
+    text-align:left;
+    text-indent:none;
+    letter-spacing:2px;
+    font:sans-serif;
+    font-size:12
 }
 button.accordion{
   cursor:pointer;
