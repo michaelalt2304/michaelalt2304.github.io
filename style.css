@@ -22,7 +22,7 @@ h4{
     text-indent:none;
     letter-spacing:2px;
     font:sans-serif;
-    font-size:12
+    font-size:12px;
 }
 button.accordion{
   cursor:pointer;
@@ -43,7 +43,7 @@ button.accordion:hover{
 }
 
 button.accordion.active{
-  background-color:#fff;
+  background-color:rgb(186, 200, 238);
   color:#000;
   border-radius:4px 4px 0 0;
   margin:4px 0 0;
