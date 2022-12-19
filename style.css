@@ -20,9 +20,17 @@ h4{
     color:black;
     text-align:left;
     text-indent:none;
-    letter-spacing:2px;
-    font:sans-serif;
+    letter-spacing:1px;
+    font:serif;
     font-size:12px;
+}
+h3{
+    color:black;
+    text-align:center;
+    text-indent:none;
+    letter-spacing:1px;
+    font:serif;
+    font-size:20px;
 }
 button.accordion{
   cursor:pointer;
