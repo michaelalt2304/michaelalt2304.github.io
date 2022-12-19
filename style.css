@@ -22,7 +22,7 @@ h4{
     text-indent:none;
     letter-spacing:1px;
     font:serif;
-    font-size:12px;
+    font-size:18px;
 }
 h3{
     color:black;
@@ -30,7 +30,7 @@ h3{
     text-indent:none;
     letter-spacing:1px;
     font:serif;
-    font-size:20px;
+    font-size:30px;
 }
 button.accordion{
   cursor:pointer;
