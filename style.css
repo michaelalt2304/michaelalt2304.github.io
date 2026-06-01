@@ -1,4 +1,9 @@
 h1{font-size:50;}
+.panel {
+  background-color: #007BFF;
+  color: white;
+}
+
 top {
     font-family:lobster;
     text-align: center;
