@@ -1,8 +1,5 @@
 h1{font-size:50;}
-.panel {
-  background-color: #007BFF;
-  color: blue;
-}
+
 
 top {
     font-family:lobster;
@@ -49,6 +46,7 @@ button.accordion{
   margin:4px 0;
   border-radius:4px;
   transition:0.3s;
+  color:blue;
 }
 
 button.accordion:hover{
