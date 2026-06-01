@@ -10,7 +10,6 @@ A modern, responsive portfolio website built to showcase my projects, skills, ex
 
 - Responsive design for desktop, tablet, and mobile devices
 - Project showcase section
-- About Me section
 - Skills and technologies overview
 - Contact information and social links
 - Clean and modern UI
